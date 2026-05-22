@@ -1,0 +1,16 @@
+{
+  "name": "fusionmedia-pro",
+  "version": "2.1.0",
+  "description": "Aplicação avançada para edição de áudio e vídeo com Node.js e FFmpeg",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mime": "^2.5.2",
+    "multer": "^2.0.0",
+    "nanoid": "3.3.4"
+  }
+}
